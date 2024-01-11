@@ -10,6 +10,7 @@ To resolve this issue, you can configure your DNS settings to access the images.
 - Configure your DNS settings to use Google's DNS servers:
   - Primary DNS: 8.8.8.8
   - Secondary DNS: 8.8.4.4
+
 By updating your DNS settings, you should be able to view images within the markdown files without any interruptions.
 If you need assistance with updating your DNS settings, you can refer to [whatismyip.com/google-dns](https://www.whatismyip.com/google-dns/) for detailed instructions.
 ## Table of Contents
